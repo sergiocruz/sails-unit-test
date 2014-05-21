@@ -1,8 +1,5 @@
 # sails-unit-test
-### a Sails application
+##Showing how to unit test Sails with Mocha and Istanbul for code coverage
 
-sails-unit-test
-===============
-
-Showing how to unit test Sails with Mocha and Istanbul for code coverage
-
+Full tutorial available on my blog:
+http://blog.sergiocruz.me/unit-test-sailsjs-with-mocha-and-instanbul-for-code-coverage/
