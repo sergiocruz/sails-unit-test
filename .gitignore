@@ -43,3 +43,8 @@ nbproject
 # local config
 ########################
 config/local.js
+
+########################
+# code coverage
+########################
+coverage
