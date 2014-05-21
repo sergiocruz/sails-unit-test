@@ -1,0 +1,26 @@
+{
+  "name": "sails-unit-test",
+  "private": true,
+  "version": "0.0.0",
+  "description": "a Sails application",
+  "dependencies": {
+    "sails": "0.9.16",
+    "grunt": "0.4.1",
+    "sails-disk": "~0.9.0",
+    "ejs": "0.8.4",
+    "optimist": "0.3.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "debug": "node debug app.js"
+  },
+  "main": "app.js",
+  "repository": "",
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "mocha": "^1.19.0",
+    "grunt-mocha-istanbul": "^1.4.1",
+    "sinon": "^1.10.0"
+  }
+}
