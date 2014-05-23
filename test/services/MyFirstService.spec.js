@@ -1,7 +1,6 @@
 'use strict';
 
-var sinon = require('sinon'),
-    assert = require('assert'),
+var assert = require('assert'),
     myFirstService = require('../../api/services/MyFirstService');
 
 describe('The service MyFirstService', function() {
