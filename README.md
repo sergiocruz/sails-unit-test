@@ -1,6 +1,6 @@
 # Unit testing SailsJS
 
-##Setup testing environment
+##Setting up testing environment
 This tutorial shows you how to get your testing environment setup. It also goes through how to run your first SailsJS unit test Sails with Mocha and how to generate code coverage with Istanbul:<br />
 http://blog.sergiocruz.me/unit-test-sailsjs-with-mocha-and-instanbul-for-code-coverage
 
