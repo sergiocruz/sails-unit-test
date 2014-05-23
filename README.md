@@ -10,4 +10,4 @@ http://blog.sergiocruz.me/sailsjs-services-how-to-use-them-in-your-controllers
 
 ##How to mock services in your controller
 Mocking services in SailsJS is actually pretty simple once you get the hang of it. The problem is actually getting to the point where you *get the hang of it*. That's exactly why I wrote up a tutorial on how to mock services when testing your controllers:<br />
-unit-testing-sails-js-how-to-mock-sailsjs-services-in-controllers
+http://blog.sergiocruz.me/unit-testing-sails-js-how-to-mock-sailsjs-services-in-controllers
